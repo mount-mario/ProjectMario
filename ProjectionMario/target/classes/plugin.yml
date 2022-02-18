@@ -1,0 +1,38 @@
+name: Projectmario
+version: '1.0-SNAPSHOT'
+main: me.mountmario.projectmario.ProjectMario
+api-version: 1.18
+authors: [ MountMario ]
+description: The Project Mario main server plugin.
+website: www.google.com
+
+commands:
+  wc:
+    aliases:
+      - worldcreator
+      - createWorld
+      - makeWorld
+    description: Allows you to make a world.
+    usage: /wc [name] [void | normal | flat]
+  wtp:
+    aliases:
+      - worldtp
+      - tpworld
+      - goworld
+      - visitworld
+      - visit
+    description: Allows you to teleport to the so called world.
+    usage: /wtp [world name]
+  wd:
+    aliases:
+      - worldelete
+      - deleteworld
+      - removeworld
+    description: Command that allows you to delete created worlds.
+    usage: /wd [world name]
+  smp:
+
+  lobby:
+
+  menu:
+
