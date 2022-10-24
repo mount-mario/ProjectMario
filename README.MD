@@ -1,17 +1,17 @@
-#Project Mario
+# Project Mario
 *Catchy slogan here*
-##What is it?
+## What is it?
 Project Mario is a versatile general purpose Minecraft server plugin.
 The plugin is *free and open source.*
 
-##Features
+## Features
 Currently implemented features:
 * World creator/teleporter (Manage multiple world's on 1 server)
 * World switch menu
 
-##More Information
-###Releases:
+## More Information
+### Releases:
 https://github.com/mount-mario/ProjectMario/releases
 
-###Wiki:
+### Wiki:
 https://github.com/mount-mario/ProjectMario/wiki
