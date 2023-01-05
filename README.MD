@@ -7,7 +7,7 @@ The plugin is *free and open source.*
 ## Features
 Currently implemented features:
 * World creator/teleporter (Manage multiple world's on 1 server)
-* World switch menu
+* Adventure Gamemode Menu (WIP)
 
 ## More Information
 ### Releases:
